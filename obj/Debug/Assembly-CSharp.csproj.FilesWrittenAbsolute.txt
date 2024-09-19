@@ -1,0 +1,63 @@
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Shared/Unity/New Unity Project 3/obj/Debug/Assembly-CSharp.dll
+/Users/Shared/Unity/New Unity Project 3/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/UnityEngine.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/UnityEditor.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Shared/Unity/New Unity Project 3/Temp/bin/Debug/zxing.unity.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tobiassturn/fotoquestgo/obj/Debug/Assembly-CSharp.dll
+/Users/tobiassturn/fotoquestgo/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEditor.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tobiassturn/fotoquestgo/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/tobiassturn/GreenSpaceNL/obj/Debug/Assembly-CSharp.dll
+/Users/tobiassturn/GreenSpaceNL/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEditor.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/nunit.framework.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/TextMeshPro-1.0.55.2017.1.0b12.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tobiassturn/GreenSpaceNL/Temp/bin/Debug/Mono.Cecil.Mdb.dll
